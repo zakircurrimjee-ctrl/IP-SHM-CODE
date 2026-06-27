@@ -1,7 +1,0 @@
-numpy
-scipy
-pandas
-scikit-learn
-imbalanced-learn
-matplotlib
-mrmr-selection
